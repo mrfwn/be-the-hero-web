@@ -3,7 +3,7 @@
 </head>
 <body>
 	<p align="center">
-  <img src="mercado.png" width="150" title="Be the Hero">
+  <img src="logo.svg" width="150" title="Be the Hero">
 </p>
 <div>
 
